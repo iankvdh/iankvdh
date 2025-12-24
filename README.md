@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/ian-klaus-von-der-heyde-a7aa0522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 🧰 Languages and Tools
+### Languages and Tools
 <div align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -40,13 +40,31 @@
 <!--
 
 -->
-### 📊 Stats
+### Stats
 
 <p align="center">
 <a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iankvdh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iankvdh&hide=smalltalk,PureBasic,jupyter%20notebook,cmake&layout=compact&langs_count=8&theme=algolia&cache_seconds=1"/>
 </a>
+</p>
+
+
+---
+
+### MelodiApp
+
+<div align="center">
+  <a href="https://github.com/MelodiApp" target="_blank">
+    <img src="https://img.shields.io/badge/MelodiApp-GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  MelodiApp is a music platform developed with a microservices-based architecture.
+  The project was built over 3 months by a team of 5 students as part of the
+  <b>Software Engineering II</b> course at the Faculty of Engineering,
+  University of Buenos Aires (FIUBA).
 </p>
 
 
