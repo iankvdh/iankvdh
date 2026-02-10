@@ -52,6 +52,7 @@
 
 ---
 
+## GitHub Organizations
 ### MelodiApp
 
 <div align="center">
@@ -61,10 +62,28 @@
 </div>
 
 <p align="center">
-  MelodiApp is a music platform developed with a microservices-based architecture.
+  MelodiApp is a music platform (mobile/web) developed with a microservices-based architecture.
   The project was built over 3 months by a team of 5 students as part of the
   <b>Software Engineering II</b> course at the Faculty of Engineering,
   University of Buenos Aires (FIUBA).
 </p>
 
+### WhereWeGoing (WWG)
+
+<div align="center">
+  <a href="https://github.com/WhereWeGoing-WWG" target="_blank">
+    <img src="https://img.shields.io/badge/WhereWeGoing-GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+
+<p align="center">
+  <b>WhereWeGoing (WWG)</b> is a tourism platform (web) that allows users to create,
+  discover, and share points of interest, activities, and travel itineraries.
+  The project was developed by a team of 6 students as part of the
+  <b>Gestión del Desarrollo de Sistemas Informáticos</b> course at the Faculty of Engineering,
+  University of Buenos Aires (FIUBA).
+  It includes automated workflows built with <b>n8n</b> and integrations with
+  <b>Google Calendar</b>, <b>Google Places</b>, and <b>Firebase</b>.
+</p>
 
